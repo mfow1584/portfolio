@@ -4,7 +4,7 @@ import pandas as pd
 
 CLIENT_ID = 'IDValue'
 CLIENT_SECRET = 'SecretValue'
-REDIRECT_URI = 'http://localhost:3000'
+REDIRECT_URI = 'URIValue'
 
 SCOPE = 'user-library-read'
 
