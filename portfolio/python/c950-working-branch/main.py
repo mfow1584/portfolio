@@ -1,4 +1,3 @@
-# StudentID: 011687882
 import sys
 import datetime
 import csv
